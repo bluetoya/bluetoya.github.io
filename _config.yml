@@ -22,10 +22,11 @@ title: seodangdog blog
 email: hjahn934@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A backend developer intent to blog a bit. Love to doodle and game.
-baseurl: "bluetoya.github.io" # the subpath of your site, e.g. /blog
-url: "https://bluetoya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+domain: bluetoya.github.io # the subpath of your site, e.g. /blog
+url: https://bluetoya.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+#twitter_username: jekyllr
+github_username:  bluetoya
 
 # Build settings
 theme: minima
